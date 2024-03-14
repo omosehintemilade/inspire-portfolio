@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Inspire0/my-portfolio/static/css/main.db76a3b0.chunk.css",
-    "main.js": "/Inspire0/my-portfolio/static/js/main.9898c9c5.chunk.js",
-    "main.js.map": "/Inspire0/my-portfolio/static/js/main.9898c9c5.chunk.js.map",
+    "main.js": "/Inspire0/my-portfolio/static/js/main.4bf9a9e3.chunk.js",
+    "main.js.map": "/Inspire0/my-portfolio/static/js/main.4bf9a9e3.chunk.js.map",
     "runtime-main.js": "/Inspire0/my-portfolio/static/js/runtime-main.7e284ba6.js",
     "runtime-main.js.map": "/Inspire0/my-portfolio/static/js/runtime-main.7e284ba6.js.map",
     "static/css/2.d64471e2.chunk.css": "/Inspire0/my-portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.2c6b39de.chunk.js": "/Inspire0/my-portfolio/static/js/2.2c6b39de.chunk.js",
-    "static/js/2.2c6b39de.chunk.js.map": "/Inspire0/my-portfolio/static/js/2.2c6b39de.chunk.js.map",
+    "static/js/2.eeb36f26.chunk.js": "/Inspire0/my-portfolio/static/js/2.eeb36f26.chunk.js",
+    "static/js/2.eeb36f26.chunk.js.map": "/Inspire0/my-portfolio/static/js/2.eeb36f26.chunk.js.map",
     "index.html": "/Inspire0/my-portfolio/index.html",
-    "precache-manifest.2d8c0a8a33c5a68a35cf189c6264dfbe.js": "/Inspire0/my-portfolio/precache-manifest.2d8c0a8a33c5a68a35cf189c6264dfbe.js",
+    "precache-manifest.99cf99de561fd6ee56b0f1df0a3bdff3.js": "/Inspire0/my-portfolio/precache-manifest.99cf99de561fd6ee56b0f1df0a3bdff3.js",
     "service-worker.js": "/Inspire0/my-portfolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/Inspire0/my-portfolio/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.db76a3b0.chunk.css.map": "/Inspire0/my-portfolio/static/css/main.db76a3b0.chunk.css.map",
-    "static/js/2.2c6b39de.chunk.js.LICENSE.txt": "/Inspire0/my-portfolio/static/js/2.2c6b39de.chunk.js.LICENSE.txt",
+    "static/js/2.eeb36f26.chunk.js.LICENSE.txt": "/Inspire0/my-portfolio/static/js/2.eeb36f26.chunk.js.LICENSE.txt",
     "static/media/myProfile.jpg": "/Inspire0/my-portfolio/static/media/myProfile.48ad761c.jpg",
     "static/media/p1.png": "/Inspire0/my-portfolio/static/media/p1.65cec716.png",
     "static/media/p2.png": "/Inspire0/my-portfolio/static/media/p2.6ed06583.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.7e284ba6.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.2c6b39de.chunk.js",
+    "static/js/2.eeb36f26.chunk.js",
     "static/css/main.db76a3b0.chunk.css",
-    "static/js/main.9898c9c5.chunk.js"
+    "static/js/main.4bf9a9e3.chunk.js"
   ]
 }
